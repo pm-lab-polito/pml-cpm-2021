@@ -33,8 +33,7 @@ The scope of work for this RFP is identified in Exhibit 2.  All Bids must meet t
 The following are the critical dates for this RFP. Please be advised that these dates are subject to changes as deemed necessary by Istanbul Metropolitan Municipality-Dept. of Transportation.  
 
 |10/19/2021|MsProject Tutorial|
-| :-: | - |
-|10/26/2021|<p>Project Stakeholders</p><p></p><p></p>|
+|10/26/2021|Project Stakeholders|
 |11/02/2021|Project/Proposal governance|
 |11/09/2021|Proposal charter|
 |11/16/2021|Project sequencing|
