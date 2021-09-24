@@ -32,19 +32,20 @@ The scope of work for this RFP is identified in Exhibit 2.  All Bids must meet t
 
 The following are the critical dates for this RFP. Please be advised that these dates are subject to changes as deemed necessary by Istanbul Metropolitan Municipality-Dept. of Transportation.  
 
-*Dates are listed in mm/dd/yyyy format:*
-
-**@gabrielecb1: pls. update according to calendar**
-
-|10/11/2015|Presentation/Tender Release|
+|10/19/2021|MsProject Tutorial|
 | :-: | - |
-|10/12/2015|<p>First Pre-Bid Meeting</p><p></p><p></p>|
-|**12/17/2015**|**Bids Due** (no later than 2:30pm CET) |
-|12/21/2015|Pre-evaluation based on Bid's price-time proposal|
-|12/21/2015|Review of client milestones and subs performance|
-|01/11/2016|Delivery of Bid's proposal with risk management actions|
-|**01/18/2016**|**Presentation of shortlisted Bidders and notification of winner**|
-|05/16/2016|Contract Effective Date |
+|10/26/2021|<p>Project Stakeholders</p><p></p><p></p>|
+|11/02/2021|Project/Proposal governance|
+|11/09/2021|Proposal charter|
+|11/16/2021|Project sequencing|
+|11/23/2021|Project resourcing|
+|11/30/2021|Project baseline schedule|
+|12/07/2021|Project baseline cashflow|
+|12/14/2021|Project plan optimization|
+|12/21/2021|Project risk|
+|12/28/2021|Project plan @ risk|
+|**01/03/2021**|**Proposal Submittal** (no later than 8:30am CET) |
+|**01/25/2022**|**Capstone Presentation**|
 
 ---
 
