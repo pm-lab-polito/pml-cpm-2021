@@ -1,4 +1,4 @@
-﻿![](Owner-logo.png)
+﻿![](./Owner-logo.png)
 
 Istanbul Metropolitan Municipality-Dept. of Transportation
 
