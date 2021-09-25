@@ -16,7 +16,7 @@ backgroundImage: url('../Brand/background_slides_cpm_poli.svg')
 Instructors:
 
 * Paolo Eugenio Demagistris
-* Gabriel 
+* Gabriel Castelblanco
 
 ---
 
