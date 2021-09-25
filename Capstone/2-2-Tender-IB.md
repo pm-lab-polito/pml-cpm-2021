@@ -1,4 +1,4 @@
-﻿![](./Owner-logo.png)
+![](./Owner-logo.png)
 
 Istanbul Metropolitan Municipality-Dept. of Transportation
 
@@ -18,7 +18,7 @@ Istanbul Metropolitan Municipality-Dept. of Transportation
 
 ## 1.1 Introduction and Background
 
-This Tender solicits Bids from organizations with experience and expertise in Swing Bridge Assembly and Installation projects. The scope includes the supply of the Swing Bridge components of a major new bridge facility to be built across the Golden Horn in Istanbul. Istanbul Metropolitan Municipality-Dept. of Transportation seeks delivery of these services in a cost-effective manner. All the necessary civil work and infrastructures will be developed by other companies contracted by Istanbul Metropolitan Municipality-Dept. of Transportation. Istanbul Metropolitan Municipality-Dept. of Transportation shall only consider proposals from financially responsible firms presently engaged in the business of providing Swing Bridge installation services. Each Vendor (proposer/firm) shall submit the required documents in the proposed format as outlined in this RFP to be considered responsive. Istanbul Metropolitan Municipality-Dept. of Transportation expects to award the contract to the best Vendor based on the requirements in this solicitation. The Vendor selected for award will be the Vendor whose proposal is responsive, responsible, and is the most advantageous to the Istanbul Metropolitan Municipality-Dept. of Transportation, as determined by Istanbul Metropolitan Municipality-Dept. of Transportation in its sole discretion on the base of declared criteria.  
+This Tender solicits Bids from organizations with experience and expertise in Swing Bridge Assembly and Installation projects. The scope includes the supply of the Swing Bridge components of a major new bridge facility to be built across the Golden Horn in Istanbul. Istanbul Metropolitan Municipality-Dept. of Transportation seeks delivery of these services in a cost-effective manner. All the necessary civil work and infrastructures will be developed by other companies contracted by Istanbul Metropolitan Municipality-Dept. of Transportation. Istanbul Metropolitan Municipality-Dept. of Transportation shall only consider proposals from financially responsible firms presently engaged in the business of providing Swing Bridge installation services. Each Vendor (proposer/firm) shall submit the required documents in the proposed format as outlined in this RFP to be considered responsive. Istanbul Metropolitan Municipality-Dept. of Transportation expects to award the contract to the best Vendor based on the requirements in this solicitation. The Vendor selected for award will be the Vendor whose proposal is responsive, responsible, and is the most advantageous to the Istanbul Metropolitan Municipality-Dept. of Transportation, as determined by Istanbul Metropolitan Municipality-Dept. of Transportation in its sole discretion on the base of declared criteria.
 
 ## 1.2 Current Conditions
 
@@ -26,11 +26,11 @@ The Owner (Istanbul Metropolitan Municipality) is seeking to expand its capacity
 
 ## 1.3 Scope of Work
 
-The scope of work for this RFP is identified in Exhibit 2.  All Bids must meet the requirements outlined in this exhibit. 
+The scope of work for this RFP is identified in Exhibit 2.  All Bids must meet the requirements outlined in this exhibit.
 
 ## 1.4 Schedule of Events and Critical Dates
 
-The following are the critical dates for this RFP. Please be advised that these dates are subject to changes as deemed necessary by Istanbul Metropolitan Municipality-Dept. of Transportation.  
+The following are the critical dates for this RFP. Please be advised that these dates are subject to changes as deemed necessary by Istanbul Metropolitan Municipality-Dept. of Transportation.
 
 *Dates are listed in mm/dd/yyyy format:*
 
@@ -38,7 +38,7 @@ The following are the critical dates for this RFP. Please be advised that these 
 
 |10/11/2015|Presentation/Tender Release|
 | :-: | - |
-|10/12/2015|<p>First Pre-Bid Meeting</p><p></p><p></p>|
+|10/12/2015|First Pre-Bid Meeting|
 |**12/17/2015**|**Bids Due** (no later than 2:30pm CET) |
 |12/21/2015|Pre-evaluation based on Bid's price-time proposal|
 |12/21/2015|Review of client milestones and subs performance|
@@ -52,7 +52,7 @@ The following are the critical dates for this RFP. Please be advised that these 
 
 ## 2.1 Overview
 
-Bids will be evaluated based on the criteria outlined in this section.  
+Bids will be evaluated based on the criteria outlined in this section.
 Istanbul Metropolitan Municipality-Dept. of Transportation reserves the right to add/delete/change any criteria or requirement if Istanbul Metropolitan Municipality-Dept. of Transportation deems it to be in their best interest (at Istanbul Metropolitan Municipality-Dept. of Transportation’ sole discretion).  If this occurs, Vendors will be notified via an addendum to the RFP prior to the RFP closing date and time. It is imperative that each Proposer realizes what is written in the Proposal and financials will become part of the winning Proposer’s final contract.
 
 ## 2.2 Responsiveness (Pass/Fail)
@@ -67,7 +67,6 @@ Istanbul Metropolitan Municipality-Dept. of Transportation shall only consider P
 Only responsive proposals will be evaluated and considered for award.  Istanbul Metropolitan Municipality-Dept. of Transportation reserves the right to request supplementary information to assure Istanbul Metropolitan Municipality-Dept. of Transportation that the Vendor’s competence, business organization, and financial resources are adequate to successfully perform the specified service.
 
 Proposals will be evaluated on the criteria listed in the table below.
-
 
 |**Evaluation Criteria**|**Unit**|**Weight**|
 | :-: | :-: | :-: |
@@ -96,6 +95,7 @@ This Tender, given the complexity of the Works, expect Bidders to form Consortia
 4. A Design consultant (Eng)
 
 It is mandatory that Consortium members appoint at least these responsible people
+
 1. GC: Bid Manager, Bid Engineer
 2. SW, M&E, Eng: one Proposal Manager each.
 
@@ -123,6 +123,7 @@ documented:
 7.8.3 Assessing  risk
 
 Specifically for
+
 * 7.6.3 Bidders will utilize MS Project using data in RFP\_PD. A milestone plan is required.
 * 7.7.3 Bidders shall include financial costs as calculated according to a project cashflow
 
@@ -164,7 +165,7 @@ Istanbul Metropolitan Municipality-Dept. of Transportation will identify the top
 
 ## 3.1 Analysis of Proposals
 
-All responsive proposals will be evaluated based on the criteria and weights outlined in subsection 2.3.  Istanbul Metropolitan Municipality-Dept. of Transportation shall analyze and prioritize the proposals based on the submitted information.  
+All responsive proposals will be evaluated based on the criteria and weights outlined in subsection 2.3.  Istanbul Metropolitan Municipality-Dept. of Transportation shall analyze and prioritize the proposals based on the submitted information.
 
 Istanbul Metropolitan Municipality-Dept. of Transportation and the Evaluation Committee will determine the potential best-valued Vendor who, in the sole judgment of Istanbul Metropolitan Municipality-Dept. of Transportation and the Evaluation Committee, best meets the RFP requirements.  Istanbul Metropolitan Municipality-Dept. of Transportation reserves the right to clarify or seek additional information on any proposal.  Istanbul Metropolitan Municipality-Dept. of Transportation also reserves the right to re-scope the service, and/or cancel and reject all proposals.
 
@@ -179,50 +180,44 @@ The following documents shall be deemed to form and be read and construed as par
 
 ## 3.3 Authorization; Enforceability
 
-Subject to the entry and effectiveness of the Notification of winning proposer, each Vendor has the requisite corporate or limited liability company power and authority, as the case may be, to 
+Subject to the entry and effectiveness of the Notification of winning proposer, each Vendor has the requisite corporate or limited liability company power and authority, as the case may be, to
 
 1) execute and deliver the Scope of work of the Contract and the Ancillary Agreements to which such Vendor is a party;
-1) perform its obligations hereunder and thereunder; and 
-1) consummate the transactions contemplated by the Contract and the Ancillary Agreements to which such Vendor is a party. 
+2) perform its obligations hereunder and thereunder; and
+3) consummate the transactions contemplated by the Contract and the Ancillary Agreements to which such Vendor is a party.
 
 Subject to the entry and effectiveness of the Notification of winning proposer, the Contract, and each Ancillary Agreement, when duly executed and delivered by each Vendor that is a party thereto, shall constitute, a valid and legally binding obligation of such Vendor, enforceable against such Vendor in accordance with its respective terms and conditions, except as enforceability may be limited by applicable bankruptcy, reorganization, insolvency, moratorium, fraudulent transfer and other similar Laws relating to or affecting the enforcement of creditors' rights generally from time to time in effect and by general equitable principles relating to enforceability, including principles of commercial reasonableness, good faith and fair dealing
 
 # SECTION 4 – Attachments and Exhibits
 
-1. Tender Cover Page 
+1. Tender Cover Page
 2. Project Specifications
-3. Price and Schedule Proposal 
+3. Price and Schedule Proposal
 
-
-**EXHIBIT 1 - CURRENT CONDITIONS** 
+**EXHIBIT 1 - CURRENT CONDITIONS**
 
 The Golden Horn Metro Crossing Bridge lying at the centre of the ongoing Taksim – Yenikapi Metro Line Construction Project will connect Unkapani and Beyoğlu banks.
 
-
-
-
-
-**EXHIBIT 2 - SCOPE OF WORK** 
+**EXHIBIT 2 - SCOPE OF WORK**
 
 #### **2.1 - TECHNICAL SPECIFICATIONS**
 
-**Contractor’s Scope:** 
+**Contractor’s Scope:**
 
 Installation of 120m long Swing Bridge. By means of the ability of moving around its own axis, when open this bridge will allow the naval traffic, and when closed will be integrated with the decks of the Stay Cable Bridge and Unkapanı side Approach Viaduct.
 
 **Owner’s scope:**
 
-Construction of reinforced concrete Off-Shore piles, carrying the electromechanical and control room of the swing bridge, standing on 8 no’s Ø1800 piles near Unkapanı bank, between the existing shore line and swing bridge pivot. 
+Construction of reinforced concrete Off-Shore piles, carrying the electromechanical and control room of the swing bridge, standing on 8 no’s Ø1800 piles near Unkapanı bank, between the existing shore line and swing bridge pivot.
 
 #### **2.2 – SUPPLY**
+
 The Contractor’s supply includes the following components:
 
-1. Swing Bridge Installation 
+1. Swing Bridge Installation
    1. Pre-assembly of the Swing Bridge components
-   1. Off-shore Installation
-1. Materials and parts
-   1. Steel material, including steel structures 
-   1. Mechanical parts (Lift and Turn Cylinder, Locking Devices and Mechanical Room)
-
-
+   2. Off-shore Installation
+2. Materials and parts
+   1. Steel material, including steel structures
+   2. Mechanical parts (Lift and Turn Cylinder, Locking Devices and Mechanical Room)
 
