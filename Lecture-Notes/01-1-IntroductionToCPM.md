@@ -1,7 +1,7 @@
 ---
 marp: true
 title: introduction to CPM
-theme: default
+theme: cpm_polito
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('../Brand/background_slides_cpm_poli.svg')

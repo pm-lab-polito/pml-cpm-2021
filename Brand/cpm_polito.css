@@ -3,13 +3,5 @@
 @import 'default';
 
 section {
-    padding-top: 20%;
-    img {
-        max-height: 75%;
-        padding-bottom: 20%;
-        display: block;
-        margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-    }
+    padding-top: 15%;
 }
