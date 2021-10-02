@@ -18,7 +18,7 @@ Istanbul Metropolitan Municipality-Dept. of Transportation
 
 ## 1.1 Introduction and Background
 
-This Tender solicits Bids from organizations with experience and expertise in Swing Bridge Assembly and Installation projects. The scope includes the supply of the Swing Bridge components of a major new bridge facility to be built across the Golden Horn in Istanbul. Istanbul Metropolitan Municipality-Dept. of Transportation seeks delivery of these services in a cost-effective manner. All the necessary civil work and infrastructures will be developed by other companies contracted by Istanbul Metropolitan Municipality-Dept. of Transportation. Istanbul Metropolitan Municipality-Dept. of Transportation shall only consider proposals from financially responsible firms presently engaged in the business of providing Swing Bridge installation services. Each Vendor (proposer/firm) shall submit the required documents in the proposed format as outlined in this RFP to be considered responsive. Istanbul Metropolitan Municipality-Dept. of Transportation expects to award the contract to the best Vendor based on the requirements in this solicitation. The Vendor selected for award will be the Vendor whose proposal is responsive, responsible, and is the most advantageous to the Istanbul Metropolitan Municipality-Dept. of Transportation, as determined by Istanbul Metropolitan Municipality-Dept. of Transportation in its sole discretion on the base of declared criteria.
+This Tender solicits Bids from organizations with experience and expertise in Swing Bridge Assembly and Installation projects. The scope includes the supply of the Swing Bridge components of a major new bridge facility to be built across the Golden Horn in Istanbul. Istanbul Metropolitan Municipality-Dept. of Transportation seeks delivery of these services in a cost-effective manner. All the necessary civil work and infrastructures will be developed by other companies contracted by Istanbul Metropolitan Municipality-Dept. of Transportation. Istanbul Metropolitan Municipality-Dept. of Transportation shall only consider proposals from financially responsible firms presently engaged in the business of providing Swing Bridge installation services. Each Vendor (proposer/firm) shall submit the required documents in the proposed format as outlined in this Tender to be considered responsive. Istanbul Metropolitan Municipality-Dept. of Transportation expects to award the contract to the best Vendor based on the requirements in this solicitation. The Vendor selected for award will be the Vendor whose proposal is responsive, responsible, and is the most advantageous to the Istanbul Metropolitan Municipality-Dept. of Transportation, as determined by Istanbul Metropolitan Municipality-Dept. of Transportation in its sole discretion on the base of declared criteria.
 
 ## 1.2 Current Conditions
 
@@ -26,25 +26,18 @@ The Owner (Istanbul Metropolitan Municipality) is seeking to expand its capacity
 
 ## 1.3 Scope of Work
 
-The scope of work for this RFP is identified in Exhibit 2.  All Bids must meet the requirements outlined in this exhibit.
+The scope of work for this Tender is identified in Exhibit 2.  All Bids must meet the requirements outlined in this exhibit.
 
 ## 1.4 Schedule of Events and Critical Dates
 
-The following are the critical dates for this RFP. Please be advised that these dates are subject to changes as deemed necessary by Istanbul Metropolitan Municipality-Dept. of Transportation.
+The following are the critical dates for this Tender. Please be advised that these dates are subject to changes as deemed necessary by Istanbul Metropolitan Municipality-Dept. of Transportation.
 
 *Dates are listed in mm/dd/yyyy format:*
 
-**@gabrielecb1: pls. update according to calendar**
-
-|10/11/2015|Presentation/Tender Release|
+|04/10/2015|Presentation/Tender Release|
 | :-: | - |
-|10/12/2015|First Pre-Bid Meeting|
-|**12/17/2015**|**Bids Due** (no later than 2:30pm CET) |
-|12/21/2015|Pre-evaluation based on Bid's price-time proposal|
-|12/21/2015|Review of client milestones and subs performance|
-|01/11/2016|Delivery of Bid's proposal with risk management actions|
-|**01/18/2016**|**Presentation of shortlisted Bidders and notification of winner**|
-|05/16/2016|Contract Effective Date |
+|**12/23/2015**|**Bids Due** (no later than 2:30pm CET) |
+|**01/10/2016**|**Presentation of shortlisted Bidders and notification of winner**|
 
 ---
 
@@ -53,11 +46,11 @@ The following are the critical dates for this RFP. Please be advised that these 
 ## 2.1 Overview
 
 Bids will be evaluated based on the criteria outlined in this section.
-Istanbul Metropolitan Municipality-Dept. of Transportation reserves the right to add/delete/change any criteria or requirement if Istanbul Metropolitan Municipality-Dept. of Transportation deems it to be in their best interest (at Istanbul Metropolitan Municipality-Dept. of Transportation’ sole discretion).  If this occurs, Vendors will be notified via an addendum to the RFP prior to the RFP closing date and time. It is imperative that each Proposer realizes what is written in the Proposal and financials will become part of the winning Proposer’s final contract.
+Istanbul Metropolitan Municipality-Dept. of Transportation reserves the right to add/delete/change any criteria or requirement if Istanbul Metropolitan Municipality-Dept. of Transportation deems it to be in their best interest (at Istanbul Metropolitan Municipality-Dept. of Transportation’ sole discretion).  If this occurs, Vendors will be notified via an addendum to the Tender prior to the Tender closing date and time. It is imperative that each Proposer realizes what is written in the Proposal and financials will become part of the winning Proposer’s final contract.
 
 ## 2.2 Responsiveness (Pass/Fail)
 
-Istanbul Metropolitan Municipality-Dept. of Transportation shall only consider Proposals from financially responsible firms presently engaged in the business of providing power services.  The Vendor selected for award will be the Vendor whose proposal is responsive, responsible, and is the most advantageous to Istanbul Metropolitan Municipality-Dept. of Transportation, as determined by Istanbul Metropolitan Municipality-Dept. of Transportation in its sole discretion.  Istanbul Metropolitan Municipality-Dept. of Transportation reserves the right to contact any Vendor to clarify any information in its proposal.  Istanbul Metropolitan Municipality-Dept. of Transportation also reserves the right to request additional information not described in this RFP (such as detailed information about the financial strength/health of a company).  Vendors that do not or cannot provide the requested information shall be considered nonresponsive.  Only responsive proposals will be evaluated and considered for award. Vendors must prepare proposals that follow the format and sequence specified in this RFP.  This includes adherence to the format of any attachments.  The following conditions/criteria must be met in order to be considered responsive:
+Istanbul Metropolitan Municipality-Dept. of Transportation shall only consider Proposals from financially responsible firms presently engaged in the business of providing power services.  The Vendor selected for award will be the Vendor whose proposal is responsive, responsible, and is the most advantageous to Istanbul Metropolitan Municipality-Dept. of Transportation, as determined by Istanbul Metropolitan Municipality-Dept. of Transportation in its sole discretion.  Istanbul Metropolitan Municipality-Dept. of Transportation reserves the right to contact any Vendor to clarify any information in its proposal.  Istanbul Metropolitan Municipality-Dept. of Transportation also reserves the right to request additional information not described in this Tender (such as detailed information about the financial strength/health of a company).  Vendors that do not or cannot provide the requested information shall be considered nonresponsive.  Only responsive proposals will be evaluated and considered for award. Vendors must prepare proposals that follow the format and sequence specified in this Tender.  This includes adherence to the format of any attachments.  The following conditions/criteria must be met in order to be considered responsive:
 
 1. The Vendor will complete and provide all information in Attachment A
 2. The Vendor will complete and provide all information in Attachment B
@@ -103,29 +96,16 @@ It is mandatory that Bidders develop and document processes to deliver the proje
 
 ### 2.5.2 Project Plan
 
-The Bid proposal shall be supported by documents and calculations developped in compliance with ISO21502, available through Owner, if needed.
+The Bid proposal shall be supported by documents and calculations developped in compliance with ISO21500:2012, available through Owner, if needed.
 
-Group of processes under ISO21502, the following paragraphs shall be
-documented:
+The result of processes under the heading 4.2.3, Initiating and Planning process groups, shall be documented as prescribed.
 
-6.5.2 Project team mobilization
-6.5.3 Project governance and management approach
-6.5.5 Initial project planning
-7.2.2 Developing the plan
-7.4.2 Defining the scope
-7.5.2 Planning the project organization
-7.5.6 Planning [, managing and controlling] physical and material resources
-7.6.2 Estimating activity durations
-7.6.3 Developing the schedule
-7.7.2 Estimating cost
-7.7.3 Developing the budget
-7.8.2 Identifying risk
-7.8.3 Assessing  risk
+See Table 1 — Project management processes cross-referenced to process and subject groups for details
 
 Specifically for
 
-* 7.6.3 Bidders will utilize MS Project using data in RFP\_PD. A milestone plan is required.
-* 7.7.3 Bidders shall include financial costs as calculated according to a project cashflow
+* 4.3.23 Develop schedule: Bidders will utilize MS Project using data in Tender\_PD. A milestone plan is required.
+* 4.3.26 Develop budget: Bidders shall include financial costs as calculated according to a project cashflow
 
 ### 2.5.3 Price Calculations
 
@@ -143,9 +123,9 @@ Prices and costs have to be expressed into EUR (Euro) currency.
 
 ## 2.6 Evaluation Criteria
 
-### 2.6.1 Price and Schedule Proposal (Attachment B)
+### 2.6.1 Price and Schedule Proposal 
 
-The Vendor will prepare and submit a Price and Schedule Proposal (Attachment B).  Proposals shall not be qualified with “If....Then” statements.  Price proposals that contain such qualifications will cause the entire proposal to be found non-responsive.  The Price Proposal must be submitted in a sealed envelope marked “Confidential Price and Schedule Proposal” along with the other required submittals as outlined in Section 4 of this RFP.  The Price Proposal requires the following information (also see relevant sections):
+The Vendor will prepare and submit a Price and Schedule Proposal (Attachment B).  Proposals shall not be qualified with “If....Then” statements.  Price proposals that contain such qualifications will cause the entire proposal to be found non-responsive.  The Price Proposal must be submitted in a sealed envelope marked “Confidential Price and Schedule Proposal” along with the other required submittals as outlined in Section 4 of this Tender.  The Price Proposal requires the following information (also see relevant sections):
 
 #### Turn-key fixed-price contract **(P)**
 
@@ -167,7 +147,7 @@ Istanbul Metropolitan Municipality-Dept. of Transportation will identify the top
 
 All responsive proposals will be evaluated based on the criteria and weights outlined in subsection 2.3.  Istanbul Metropolitan Municipality-Dept. of Transportation shall analyze and prioritize the proposals based on the submitted information.
 
-Istanbul Metropolitan Municipality-Dept. of Transportation and the Evaluation Committee will determine the potential best-valued Vendor who, in the sole judgment of Istanbul Metropolitan Municipality-Dept. of Transportation and the Evaluation Committee, best meets the RFP requirements.  Istanbul Metropolitan Municipality-Dept. of Transportation reserves the right to clarify or seek additional information on any proposal.  Istanbul Metropolitan Municipality-Dept. of Transportation also reserves the right to re-scope the service, and/or cancel and reject all proposals.
+Istanbul Metropolitan Municipality-Dept. of Transportation and the Evaluation Committee will determine the potential best-valued Vendor who, in the sole judgment of Istanbul Metropolitan Municipality-Dept. of Transportation and the Evaluation Committee, best meets the Tender requirements.  Istanbul Metropolitan Municipality-Dept. of Transportation reserves the right to clarify or seek additional information on any proposal.  Istanbul Metropolitan Municipality-Dept. of Transportation also reserves the right to re-scope the service, and/or cancel and reject all proposals.
 
 ## 3.2 Contract Agreement
 
@@ -190,34 +170,6 @@ Subject to the entry and effectiveness of the Notification of winning proposer, 
 
 # SECTION 4 – Attachments and Exhibits
 
-1. Tender Cover Page
-2. Project Specifications
-3. Price and Schedule Proposal
-
-**EXHIBIT 1 - CURRENT CONDITIONS**
-
-The Golden Horn Metro Crossing Bridge lying at the centre of the ongoing Taksim – Yenikapi Metro Line Construction Project will connect Unkapani and Beyoğlu banks.
-
-**EXHIBIT 2 - SCOPE OF WORK**
-
-#### **2.1 - TECHNICAL SPECIFICATIONS**
-
-**Contractor’s Scope:**
-
-Installation of 120m long Swing Bridge. By means of the ability of moving around its own axis, when open this bridge will allow the naval traffic, and when closed will be integrated with the decks of the Stay Cable Bridge and Unkapanı side Approach Viaduct.
-
-**Owner’s scope:**
-
-Construction of reinforced concrete Off-Shore piles, carrying the electromechanical and control room of the swing bridge, standing on 8 no’s Ø1800 piles near Unkapanı bank, between the existing shore line and swing bridge pivot.
-
-#### **2.2 – SUPPLY**
-
-The Contractor’s supply includes the following components:
-
-1. Swing Bridge Installation
-   1. Pre-assembly of the Swing Bridge components
-   2. Off-shore Installation
-2. Materials and parts
-   1. Steel material, including steel structures
-   2. Mechanical parts (Lift and Turn Cylinder, Locking Devices and Mechanical Room)
-
+1. IB-Price Calculation Form
+2. IB-Price and Schedule Proposal
+3. Tender Documents
