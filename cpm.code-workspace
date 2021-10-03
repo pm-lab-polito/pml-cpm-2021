@@ -5,6 +5,9 @@
 		}
 	],
 	"settings": {
+		"workbench.editorAssociations": {
+			"*.md": "default"
+		},
 		"markdown.marp.themes": [
 			"./Brand/cpm_polito.css"
 		  ],

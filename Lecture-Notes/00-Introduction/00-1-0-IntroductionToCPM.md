@@ -50,7 +50,7 @@ The next slides are aimed at clarity on what we mean by each term.
 
 # Construction
 
-![broad and narrow](../img/m-01-01.png)
+![broad and narrow](../img/m-00-01.png)
 
 ---
 
@@ -84,7 +84,7 @@ Organizations are systems, management is a supervisor, defined as:
 
 # Management cycle
 
-![management cycle](../img/m-01-02.drawio.png)
+![management cycle](../img/m-00-02.drawio.png)
 
 ---
 
@@ -131,7 +131,7 @@ Organizations are systems, management is a supervisor, defined as:
 
 # Project As a Framework
 
-![PrjFrwrk](../img/m-01-03.png)
+![PrjFrwrk](../img/m-00-03.png)
 
 ---
 
@@ -161,7 +161,7 @@ Organizations are systems, management is a supervisor, defined as:
 
 # Formation of strategy
 
-![strategy](../img/m-01-04.png)
+![strategy](../img/m-00-04.png)
 
 * Opportunities are identified and evaluated through environment intelligence
 * Management selects the opportunities that could deliver benefits
@@ -174,7 +174,7 @@ Organizations are systems, management is a supervisor, defined as:
 
 # Formation of a project
 
-![prjForm](../img/m-01-05.drawio.svg)
+![prjForm](../img/m-00-05.drawio.svg)
 
 ---
 
@@ -312,7 +312,7 @@ The life cycle is broken into stages:
 # PM Processes Groups
 
 
-![procGr](../img/m-01-06.drawio.svg)
+![procGr](../img/m-00-06.drawio.svg)
 
 ---
 
@@ -352,7 +352,7 @@ plan.
 
 # PM processes by subject
 
-![subjProc](../img/m-01-07.drawio.svg)
+![subjProc](../img/m-00-07.drawio.svg)
 
 ---
 
@@ -486,7 +486,7 @@ While a process is a set of defined actions, a procedure is a set of instruction
 
 # The CPM course
 
-![schedule](../img/m-01-08.drawio.svg)
+![schedule](../img/m-00-08.drawio.svg)
 
 ---
 
