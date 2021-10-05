@@ -1,10 +1,14 @@
 ---
 marp: true
 title: contract organization
-theme: cpm_polito
+theme: default
+style: |
+  section {
+    padding-top: 15%;;
+  }
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('../../Brand/background_slides_cpm_poli.svg')
+backgroundImage: url('../Brand/background_slides_cpm_poli.svg')
 ---
 
 # 01 - Contract Organization
@@ -275,6 +279,18 @@ The price generally has the possibility to be revised
 **Penalties**: sums to be deducted from Price in case of failure to comply with certain contractual requirements
 
 **Liquidated damages**: conventional sums representing Owner damages occurring as a consequence of Contractor failure to comply with certain contractual requirements
+
+---
+
+# Readings
+
+### Mandatory
+
+[1] A. De Marco, Project Management for Facility Constructions, Second Edi. Springer International Publishing, 2018. Chapter 2. - Contract Organization
+
+### Recommended
+
+[2] C. Hendrickson and T. Au, Project Management for Construction, Edition 2.2, Carnegie Mellon University, 2008. - Chapter 2 - Organizing for Project Management [https://www.cmu.edu/cee/projects/PMbook/index.html](https://www.cmu.edu/cee/projects/PMbook/index.html)
 
 ---
 
