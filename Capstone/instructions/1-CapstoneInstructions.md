@@ -4,7 +4,7 @@ title: Authoring Slides
 theme: cpm-polito
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('../Brand/background_slides_cpm_poli.svg')
+backgroundImage: url('../../Lecture-Notes/Brand/background_slides_cpm_poli.png')
 ---
 
 # Contruction Project Management Course
@@ -82,11 +82,48 @@ To understand the following instructions, it is highly suggested to have a worki
 
 # Process Chart
 
-![](../../)
+![](../../Lecture-Notes/img/m-00-07.drawio.svg)
 
 ---
 
 # Detailed Processes Instruction
 
->Will be delivered along the Capstone progress
+---
 
+# Integration
+
+## Form a capstone project team
+
+Each student must fill the following form [https://forms.office.com/r/f8Qfy2a1AT](https://forms.office.com/r/f8Qfy2a1AT)
+
+Follow form instructions.
+
+Team forming criteria:
+
+* Teams must have 8 to 9 members.
+* Teams composition can be reviewed with the Instructors to solve specific students' issues
+
+---
+
+# Project Stakeholders & Proposal Governance
+
+Based on project context, list all stakeholders.
+
+Chart composition and scope of responsibilities within the Proposal Team (ie. your capstone team) according to Tender, Instruction to Bidders - 2.5.1 Proposal Quality Plan
+
+> This Tender, given the complexity of the Works, expect Bidders to form Consortia between: 1. A General Contractor (GC), 2. A Specialized Steelworks (SW) S/Contractor, 3. A Specialized Mechanical and Electrical (M&E) S/Contractor, 4. A Design consultant (Eng)
+> ... (See document for details)
+
+---
+
+# Project Stakeholders & Proposal Governance
+
+## Describe your team organizational structure
+
+As per lecture 02-1-00-resourcing
+
+---
+
+# Proposal Charter, Project and Proposal Scope
+
+> To be completed
