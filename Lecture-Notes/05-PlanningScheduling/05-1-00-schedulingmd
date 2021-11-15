@@ -1,0 +1,146 @@
+---
+marp: true
+title: scheduling
+theme: default
+style: |
+  section {
+    padding-top: 15%;;
+  }
+paginate: true
+backgroundColor: #fff
+backgroundImage: url('../Brand/background_slides_cpm_poli.svg')
+---
+
+# 05-1 Scheduling a Construction Project
+
+## Deterministic approach
+
+### Paolo Eugenio Demagistris
+
+---
+
+## Scheduling > Today Lecture
+
+### Deterministic scheduling
+
+Basics of structuring breakdowns of project activities (WBS and CBS)
+
+Principles applying to deterministic scheduling process
+
+Standard scheduling documents, primary scheduling methods
+
+---
+
+## Scheduling > Organizational Challenge
+
+* The project environment needs a detailed schedule showing the planned start and end times of the project activities to establish the overall project schedule baseline.
+* Although there are more simplistic approaches, the Network diagramming technique allows to calculate project timing based on estimated activities durations, resource constraints and sequence of activities.
+
+---
+
+### Network diagramming - Inputs
+
+* Clarify the project scope, including objectives, deliverables, requirements and boundaries, by defining the end state of the project. Obtain: **Scope statement, Requirements**
+* Provide a hierarchical decomposition framework for presenting the work that needs to be completed, in order to achieve the project objectives. Obtain **WBS**
+* WBS can be developed using standardized decomposition logics (see Omniclass in links)
+
+---
+![bg right:100% 90%](../img/m-05-01.drawio.svg)
+
+---
+
+### Network diagramming - Detail the nodes
+
+* Obtain the WBS from Scope group of processes
+* Detail activities that are to be implemented in a **monitored way**.
+* Assign:
+  * estimated deterministic duration
+  * estimated costs
+  * resources
+
+---
+
+![bg right:100% 90%](../img/m-05-02.png)
+
+---
+
+### Network diagramming - Detail the links
+
+* Establish the logical and objective system of relationships (precedences and dependencies) between activities.
+* Type of relationships:
+  * End - Start
+  * Start - Start
+  * End - End
+* It is also possible to assign lags and overlaps, using the Precedence Diagramming Method. However this makes the network model improperly formed
+
+---
+
+### Network diagramming - CPM: solve the Network
+
+* Once we have defined the network nodes and links we can fully calculate the key time metrics required to manage a time schedule:
+* Early start and end: the earliest dates an activity can start and therefore end
+* Late start and end: the latest dates an activity can start and therefore end **without delaying the project**
+* The floats (or slacks im MsProject's parlance) as the difference between late minus early set of dates.
+* It represents the freedom we have in moving in time our activities, tuning start, duration and therefore end to suit various project requirements.
+
+---
+
+![bg right:10 90%](../img/m-05-03.png)
+
+---
+
+![bg right:1 95%](../img/m-05-04.png)
+
+---
+
+![bg right:1 95%](../img/m-05-05.png)
+
+---
+
+### Network diagramming > CPM: the Algorithm
+
+Using a scheduling system the CPM algorithm is transparent to the user.
+See this video for details https://youtu.be/-TDh-5n90vk
+
+---
+
+
+### Network diagramming > Critical path
+
+The Critical Path(CP) and it is the longest of all paths in the network system.
+
+In all network based project there at least one Critical Path, that has no slack: the activities in this path must be completed on time, otherwise the entire project will be delayed.
+
+---
+
+## Network diagramming > Managing paths
+
+Network diagramming allows to see project timing according to all the possible paths leading from project's start to end.
+
+Each path possesses a total float, the sum of path's activities float.
+
+While the the Critical path is the longest at planning time, project uncertainty may lead to changes in durations. Implementing new durations in the CPM algorithm may yield different paths.
+
+---
+
+### Network diagramming > Indexing paths
+
+Path priority index
+
+$$
+
+\lambda_{path}=\frac{\alpha_2-\beta}{\alpha_2-\alpha_1}\\
+\alpha_1:min(slack_{paths})=0\\
+\alpha_2:Max(slack_{paths})\\
+\beta:slack_{path}
+
+$$
+
+In this way, we can classify all paths and pay attention as λ is high
+
+---
+
+### Network diagramming > Reading
+
+A. De Marco, Project Management for Facility Constructions, Second Edi. Springer International Publishing, 2018:
+§ 7.3 Scheduling systems, 7.4 Critical Path Method
