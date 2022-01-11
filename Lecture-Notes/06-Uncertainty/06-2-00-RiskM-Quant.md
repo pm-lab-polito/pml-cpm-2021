@@ -179,7 +179,7 @@ Report recorded results
 
 
 
-# # Quantitative Risk Management - Reading
+## Quantitative Risk Management - Reading
 
 A. De Marco, Project Management for Facility Constructions, Second Edi. Springer International Publishing, 2018:
 Part V – Uncertainty
